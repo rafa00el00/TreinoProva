@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">simuladorProva</string>
+    <string name="lbl_nome">Qual o seu nome?</string>
+    <string name="hint_nome">Nome...</string>
+    <string name="hint_interesse">Interesse...</string>
+    <string name="lbl_interesse">Qual seu Assunto de Interesse?</string>
+    <string name="btn_Buscar">OK</string>
+    <string name="title_activity_busca">ActivityBusca</string>
+    <string name="lbl_bemvindo">Bem Vindo(a)</string>
+    <string name="lbl_lista">Eis uma lista de livros:</string>
+</resources>
